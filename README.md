@@ -19,15 +19,15 @@
 🔹 **SOC Home Lab – Threat Detection & Analysis**  
 - Simulated brute-force and scanning attacks
 - Detected malicious activity using SIEM and Sysmon  
-➡️ [View Project](#)
+➡️ [View Project](https://github.com/abdullahmunir-sec/SOC-Home-Lab)
 
 🔹 **Active Directory Attack & Defense Lab**  
 - Performed common AD attacks and applied defensive controls  
-➡️ [View Project](#)
+➡️ [View Project](https://github.com/abdullahmunir-sec/Active-Directory-Attack-Defense)
 
 🔹 **Vulnerability Management Lab**  
 - Conducted Nessus scans and prioritized remediation  
-➡️ [View Project](#)
+➡️ [View Project](https://github.com/abdullahmunir-sec/Vulnerability-Management-Lab)
 
 ---
 
