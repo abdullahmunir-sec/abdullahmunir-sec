@@ -16,6 +16,11 @@
 ---
 
 ## 📂 Featured Security Projects
+
+🔹 **Enterprise SOC LAB**  
+-   Simulated real-world network traffic for threat detection and security monitoring using SIEM and IDS tools
+➡️ [View Project](https://github.com/abdullahmunir-sec/Enterprise-SOC-Lab)
+
 🔹 **SOC Home Lab – Threat Detection & Analysis**  
 - Simulated brute-force and scanning attacks
 - Detected malicious activity using SIEM and Sysmon  
@@ -28,6 +33,7 @@
 🔹 **Vulnerability Management Lab**  
 - Conducted Nessus scans and prioritized remediation  
 ➡️ [View Project](https://github.com/abdullahmunir-sec/Vulnerability-Management-Lab)
+
 
 ---
 
