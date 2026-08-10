@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah Munir
 
 🔐 Security+ Certified | Aspiring SOC Analyst  
-🎓 Cybersecurity coursework (Year 1 completed)  
+🎓 BS Cybersecurity - Howest Hogeschool
 🧪 Hands-on labs focused on real-world attack detection and defense
 
 ---
@@ -43,9 +43,9 @@
 ---
 
 ## 🎯 Career Focus
-Currently seeking **SOC Tier 1 / Junior Security Analyst / IT Support (Security-focused)** roles to gain real-world cybersecurity experience.
+Currently seeking **SOC Tier 1 / Junior Security Analyst / IT Support (Security-focused)** roles.
 
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/abdullah-munir-7363362a7/
+- LinkedIn: www.linkedin.com/in/abdum-cybersec
